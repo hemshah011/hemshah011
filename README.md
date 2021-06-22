@@ -2,7 +2,7 @@
 
 <p>I am a 3rd yr Undergraduate from IIT Kanpur</p>
 <br>
-<p>I work as Head of Web Operations @<a href="https://github.com/ECell-IITK">Ecell-IITK</a>, proficient in MERN stack</p>
+<p>I work as Head of Web Operations @<a href="https://www.ecelliitk.org/">Ecell-IITK</a>, proficient in MERN stack</p>
 <br>
 <p>My areas of interests are Blockchain, Web Development and Systems Security</p>
 <br>
