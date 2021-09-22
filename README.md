@@ -1,6 +1,6 @@
 ### Hi there, this is [Hem Shah](https://github.com/hemshah011) 👋
 
-<p>I am a 3rd yr Undergraduate from IIT Kanpur</p>
+<p>I am a 3rd Year Undergraduate from IIT Kanpur</p>
 <br>
 <p>I work as Head of Web Operations @<a href="https://www.ecelliitk.org/">Ecell-IITK</a>, proficient in MERN stack</p>
 <br>
